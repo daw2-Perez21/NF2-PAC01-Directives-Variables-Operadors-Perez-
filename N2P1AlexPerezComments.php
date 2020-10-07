@@ -1,0 +1,31 @@
+<?php
+echo "Create a list of the 10 most important concepts about what you’ve learned in this  document";
+echo "<br>";
+echo "1-Use codenvy";
+echo "<br>";
+echo "2-Start Apache";
+echo "<br>";
+echo "3-Crate PHP";
+echo "<br>";
+echo "4-Create PHP link";
+echo "<br>";
+echo "5-Use Github";
+echo "<br>";
+echo "6-Use cookie";
+echo "<br>";
+echo "7-Use Get variable";
+echo "<br>";
+echo "8-Use Post variable";
+echo "<br>";
+echo "9-create form";
+echo "<br>";
+echo "10-use form ";
+echo "<br>";
+echo "Qualifies the document:6";
+echo "<br>";
+echo "Teacher's explanation:6";
+echo "<br>";
+echo "Explain an improvement";
+echo "<br>";
+echo "me ha costado bastante hacer la practica y no he entendido muy bien algunos conceptos se podria poner un pdf explicando que hace cada tipo de varibale";
+?>
